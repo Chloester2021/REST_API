@@ -1,3 +1,3 @@
 # REST_API
-REST API of a blog post
+REST API on localhost 3000 using mongoDB
 <img src="postman.png">
